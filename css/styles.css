@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Hind+Madurai&display=swap");
+@import "reset.css";
+@import "status-bar.css";
+
+body {
+  font-family: "Hind Madurai", sans-serif;
+}
