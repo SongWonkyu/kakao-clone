@@ -1,7 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Hind+Madurai&display=swap");
+
 @import "reset.css";
-@import "status-bar.css";
 @import "variables.css";
+
+/* components */
+@import "components/status-bar.css";
+@import "components/nav-bar.css";
+
+/* screens */
+@import "screens/login.css";
 
 body {
   font-family: "Hind Madurai", sans-serif;
